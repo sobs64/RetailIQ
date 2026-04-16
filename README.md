@@ -60,3 +60,35 @@ It answers:
 ---
 
 ## 🏗️ Project Structure
+
+retail-location-ml/
+│
+├── data/
+│ ├── bangalore_supermarkets.csv
+│ └── bangalore_features.csv
+│
+├── src/
+│ ├── data_collection.py
+│ ├── feature_engineering.py
+│ └── model.py
+│
+├── model/
+│ └── location_model.pkl
+│
+├── app/
+│ └── streamlit_app.py
+│
+├── requirements.txt
+├── .env (not committed)
+└── README.md
+
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone repository
+
+```bash
+git clone https://github.com/sobs64/RetailIQ.git
+cd RetailIQ
