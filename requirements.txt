@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+streamlit
+folium
+streamlit-folium
+requests
+python-dotenv
+joblib
+tqdm
