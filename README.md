@@ -60,7 +60,7 @@ It answers:
 ---
 
 ## 🏗️ Project Structure
-
+```
 retail-location-ml/
 │
 ├── data/
@@ -81,7 +81,7 @@ retail-location-ml/
 ├── requirements.txt
 ├── .env (not committed)
 └── README.md
-
+```
 
 ---
 
