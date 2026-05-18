@@ -7,4 +7,10 @@ streamlit-folium
 requests
 python-dotenv
 joblib
+xgboost
+shap
+osmnx
+matplotlib
+seaborn
+scipy
 tqdm
